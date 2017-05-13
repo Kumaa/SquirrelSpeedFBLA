@@ -1,0 +1,23 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\projectileController.cs" Line="12" Column="20" />
+      <File FileName="Assets\Scripts\RestrictMovement.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerControl.cs" Line="73" Column="17" />
+      <File FileName="Assets\Scripts\EnemyScript.cs" Line="186" Column="23" />
+      <File FileName="Assets\Scripts\mutteorScript.cs" Line="34" Column="26" />
+      <File FileName="Assets\Scripts\mutteorScript2.cs" Line="37" Column="28" />
+      <File FileName="Assets\Scripts\GameMaster.cs" Line="61" Column="39" />
+      <File FileName="Assets\deathPage.cs" Line="14" Column="39" />
+      <File FileName="Assets\instrScript.cs" Line="16" Column="6" />
+      <File FileName="Assets\storyPage.cs" Line="14" Column="39" />
+      <File FileName="Assets\Scripts\EnemyScript2.cs" Line="165" Column="7" />
+      <File FileName="Assets\Scripts\EnemyScript3.cs" Line="220" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
